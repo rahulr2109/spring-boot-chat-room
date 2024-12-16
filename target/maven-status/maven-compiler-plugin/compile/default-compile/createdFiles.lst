@@ -1,0 +1,8 @@
+com\example\chatapp\chat\ChatController.class
+com\example\chatapp\chat\ChatMessage$ChatMessageBuilder.class
+com\example\chatapp\chat\ChatMessage.class
+com\example\chatapp\ChatappApplication.class
+com\example\chatapp\config\WebSocketEventListener.class
+com\example\chatapp\chat\MessageType.class
+com\example\chatapp\config\WebSocketConfig.class
+com\example\chatapp\config\SessionDisconnectedEvent.class
